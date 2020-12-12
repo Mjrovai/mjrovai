@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Marcelo Rovai
-<br />
+"I am always doing what I cannot do yet, in order to learn how to do it"
+
+Vincent Van Gogh
 
 ### Languages and Tools:
 
-![C++](https://img.shields.io/badge/c%20-brown.svg?&style=for-the-badge&logo=c++&ogoColor=white)
+![C](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
