@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm Marcelo Rovai
-"I am always doing what I cannot do yet, in order to learn how to do it"
-
-Vincent Van Gogh
+<p>"I am always doing what I cannot do yet, in order to learn how to do it"</p>
+<p>Vincent Van Gogh</p>
+</br>
 
 ### Languages and Tools:
 
