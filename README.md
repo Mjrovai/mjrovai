@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ### My Latest Posts:
 
 
-[![Hackster](https://badgen.net/badge/HACKSTER.io//:color?icon=hackster)](https://www.hackster.io/mjrobot)
+[![Hackster](https://badgen.net/badge/HACKSTER.io//)](https://www.hackster.io/mjrobot)
 
 [![Medium](https://img.shields.io/badge/medium-%2320232a.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rovai)
 
